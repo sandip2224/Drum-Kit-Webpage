@@ -2,7 +2,7 @@
 
 <!-- PROJECT LOGO -->
 <p align="center">
-   <img src="images/doc_logo.png" alt="Logo" height=100 weight=100/>
+   <img src="images/drum_logo.png" alt="Logo" height=97 weight=97/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/github/license/sandip2224/Drum-Kit-Webpage"/>
