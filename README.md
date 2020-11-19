@@ -1,4 +1,4 @@
-<h2 align="center">Drum-Kit Webpage✅</h2>
+<h2 align="center">Drum-Kit Webpage</h2>
 
 <!-- PROJECT LOGO -->
 <p align="center">
